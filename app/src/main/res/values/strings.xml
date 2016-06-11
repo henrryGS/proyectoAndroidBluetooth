@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Arduino Bluetooth GH</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="bluetooth_activado">Bluetooth Activado</string>
+    <string name="bluetooth_desactivado">Bluetooth Desactivado</string>
+
+
+
+
+
+
+
+
+    <string name="Enviar">Enviar</string>
+    <string name="BuscarDispositivo">Buscar</string>
+    <string name="Conectar">Conectar</string>
+    <string name="MostrarEnlazados">Enlazados</string>
+    <string name="ActivarBluetooth">Activar bluetooth</string>
+    <string name="DesactivarBluetooth">Desactivar bluetooth</string>
+    <string name="Confirmar">Confirmar</string>
+    <string name="Cancelar">Cancelar</string>
+    <string name="Salir">Salir</string>
+
+    <!-- Mensajes -->
+    <string name="SinConexion">Conexión actual: SIN CONEXIÓN</string>
+    <string name="ConexionActual">Conexión actual:</string>
+    <string name="ConectandoA">Conectando a</string>
+    <string name="IniciandoDescubrimiento">Iniciando búsqueda de dispositivos bluetooth&#8230;</string>
+    <string name="ErrorIniciandoDescubrimiento">Error al iniciar búsqueda de dispositivos bluetooth</string>
+    <string name="DetectadoDispositivo">Detectado dispositivo</string>
+    <string name="FinBusqueda">Fin de la búsqueda</string>
+    <string name="EnviandoMensaje">Enviando mensaje</string>
+    <string name="MsgConfirmarConexion">¿Conectar al dispositivo</string>
+    <string name="MsgErrorConexion">Error al enviar al mensaje: no hay conexiones activas</string>
+
+
+
+
+    <string name="menu_settings">Opciones</string>
+    <string name="title_activity_main">Led</string>
+    <string name="bluetooth">Conectarse a</string>
+    <string name="On">ENCENDER</string>
+    <string name="Off">APAGAR</string>
+    <string name="brillo">Brillo</string>
+    <string name="vacio"></string>
+    <string name="Desconexion">DESCONECTAR</string>
+
+</resources>
